@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pure-romance/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Pure Romance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pure-romance/) |
+| **Get License** | [License this song: Pure Romance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pure-romance/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I watch the shadow softly falling on your face
+> A quiet fire melting all the empty space
+> You pull me closer with a whisper in the dark
+> And leave a tender kind of magic on my heart
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
