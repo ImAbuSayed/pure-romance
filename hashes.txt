@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Pure Romance
+
+This log tracks the cryptographic history and versioning for the song **Pure Romance** (pure-romance).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-30T12:43:51.703399 | `v1` | `d8e9ea0d657c2d80af62872295f3ed594554296f37802d99dbb84320da537d29` | `fc99f110b2790bf6fb48654e9d4189fd703eec5cd5a5482072aebb5cf2b19ab2` | `2026-05-30_pure-romance-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
